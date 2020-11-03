@@ -22,6 +22,7 @@ while True:
 			a = input('1 chislo\n>> ')
 			if a == 'x':
 				break
+			b = input('2 chislo\n>> ')
 			if b == 'x':
 				break
 			try:
